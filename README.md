@@ -1,4 +1,5 @@
-#Credit Card Fraud Detection
+# Credit Card Fraud Detection
+
 The project focuses on credit card fraud detection using a Crisp DM (Cross-Industry Standard Process for Data Mining) approach. It addresses the challenge of class imbalance, where the number of fraud transactions is much lower than legitimate transactions.
 
 The project aims to build a model that can effectively detect credit card fraud in real-time by treating it as an anomaly detection problem. The dataset used for this project is the Kaggle Credit Card Fraud Detection Dataset.
